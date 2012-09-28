@@ -4,7 +4,7 @@
 
 #url: http://gutocarvalho.github.com
 url: http://gutocarvalho.net/octopress
-title: gutocarvalho.net
+title: gutocarvalho.net/octopress
 subtitle: cotidiano simples, vida feliz.
 author: Guto Carvalho
 simple_search: http://google.com/search
@@ -20,7 +20,7 @@ date_format: "ordinal"
 subscribe_rss: /atom.xml
 subscribe_email: gutocarvalho@gmail.com
 # RSS feeds can list your email address if you like
-email:
+email: gutocarvalho@gmail.com
 
 # ----------------------- #
 #    Jekyll & Plugins     #
