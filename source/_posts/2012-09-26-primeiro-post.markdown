@@ -33,33 +33,35 @@ Perseguindo essa ideia de simplificar, dei uma olhada no Flatpress, Pixie, Pivot
 
 Eventualmente quando eu ministrava alguma palestra ou quando meu blog era mencionado em algum outro blog grande, o Wordpress claramente não escalava - a.k.a - sentava bonito.
 
-Nos últimos tempos, percebi que havia diminuído minhas postagens devido a insatisfação com a ferramenta de blog, só o tempo que eu demorava para logar, criar um novo post e começar a escrever me desanimava profundamente a prosseguir.
+Nos últimos tempos, percebi que havia diminuído o fluxo de minhas postagens, em parte devido a insatisfação com a ferramenta de blog, só o tempo que eu demorava para logar, criar um novo post e começar a escrever me desanimava profundamente, não tinha vontade de prosseguir e acaba fechando o navegador.
 
-Além disto, havia a necessidade de uma desagradável manutenção, era backup de banco, backup do WP, atualizações de segurança constantes no core do WP, atualizações de plugin quase diárias, tudo isso já estava me cansando, as vezes eu logava para blogar, e quando percebia já estava fuçando e atualizando plugins e o própio WP.
+Além disto, havia a necessidade de realizar regularmente desagradáveis manutenções, era backup de banco, backup do WP, atualizações de segurança constantes no core do WP, atualizações de plugin - quase diárias, tudo isso já estava me cansando, as vezes eu logava para blogar e quando percebia já estava fuçando e atualizando plugins e o própio WP.
 
 A combinação plugins + banco é uma âncora, para melhorar algo que já é lento, precisa-se usar mais plugins de cache ou colocar sistemas como varnish ou nginx na frente do WP fazendo o cacheamento pesado pra que ele escale.
 
-O Editor rico (WYSIWYG) me deixava louco as vezes, copiar e colar algo era penoso e isso gerava muito retrabalho.
+O editor rico (WYSIWYG) me deixava louco as vezes, copiar e colar algo era penoso e isso gerava muito retrabalho.
 
 
 
 ### 4. O que eu queria?
 
-Eu não queria uma ferramente que usasse banco de dados relacional  
+Eu **não** queria uma ferramenta que usasse banco de dados relacional.
 
-Eu queria que a ferramenta gerasse HTML Puro
+Eu queria que a ferramenta gerasse HTML Puro.
 
-Eu queria algo que pudesse controlar via GIT
+Eu queria escrever meus posts usando Markdown.
+
+Eu queria algo que pudesse controlar via GIT.
 
 Eu queria algo em Ruby, Python ou Perl - usei muito PHP, era hora de experimentar outras coisas.
 
-Eu queria sair do mainstream e ver as novidades recentes
+Eu queria sair do mainstream e ver as novidades recentes.
 
 
 
 ### 5. Octopress
 
-Após muita pesquisa ainda não me via satisfeito, achei muitas ferramentas interessantes, porém a maioria havia sido feita usando PHP, e como disse, queria algo que não fosse PHP, eu queria algo mais simples, queria algo que gerasse HTML puro. 
+Após muita pesquisa ainda não me via satisfeito, achei muitas ferramentas interessantes, porém a maioria havia sido feita usando PHP, e como disse, queria algo que não fosse PHP, eu queria algo mais simples e eficiente.
 
 Nessa linha de pesquisa, encontrei a engine Jekill, o framework Octopress (ruby) e um outro framework inspirado neste chamado Hyde (python), me identifiquei mais com o Octopress, testei, gostei e resolvi mudar.
 
@@ -83,23 +85,23 @@ A principal vantagem é que eu tenho o blog localmente no meu notebook, com isso
 
 ### 7. O que espero obter usando o Octopress?
 
-Agilidade na publicação de meus posts
+Agilidade na publicação de meus posts.
 
-Agilidade na formatação dos meus posts (markdown)
+Agilidade na formatação dos meus posts (markdown).
 
-Conseguir aumentar a frequência de posts
+Conseguir aumentar a frequência de posts.
 
-Oferecer um site mais rápido para visitantes
+Oferecer um site mais rápido para visitantes.
 
-Usar quase a mesma sintaxe que uso dokuwiki
+Usar quase a mesma sintaxe que uso no dokuwiki.
 
-Blogar diretamente do meu note
+Blogar diretamente do meu note.
 
 
 
 ### 8. Já foi o tempo do Wordpress? 
 
-Na minha opinião, o Wordpress é uma ótima ferramenta, mas hoje temos uma gama de tecnologias surgindo, coisas muito interessantes, mais rápidas, mais eficientes, novas abordagens para gerenciar conteúdo e armazenar informações, soluções que merecem nossa atenção, portanto, acho que é hora de inovar, o wordpress é sempre uma alternativa, mas eu sou da turma que gosta de novas experiências, portanto, na minha opinião o tempo do WP já passou e em meus novos projetos, certamente vou escolher outro tipo de ferramenta.
+Na minha opinião, o Wordpress é uma ótima ferramenta, mas hoje temos uma gama de tecnologias surgindo, coisas muito interessantes, mais rápidas, mais eficientes, novas abordagens para gerenciar conteúdo e armazenar informações, soluções que merecem nossa atenção, portanto, acho que é hora de inovar, o wordpress é sempre uma alternativa, mas eu sou da turma que gosta de novas experiências, logo, na minha opinião o tempo do WP já passou e em meus novos projetos certamente vou escolher outro tipo de ferramenta.
 
 [s]<br>
 Guto
