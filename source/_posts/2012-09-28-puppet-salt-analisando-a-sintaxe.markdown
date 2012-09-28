@@ -11,7 +11,7 @@ Estive estudando a sintaxe do Salt, abaixo mostro como declarar um pacote, um se
 
 ### Declarando no Puppet
 
-{% codeblock [lang:puppet] %}
+{% codeblock lang:puppet %}
 
 package { "openssh-server":
 	ensure  => installed
@@ -38,7 +38,7 @@ file { "/etc/ssg/sshd_config":
 ### Declarando no Salt
 
 
-{% codeblock [lang:yaml] %}
+{% codeblock lang:python %}
 
 openssh-server:
    pkg.installed
