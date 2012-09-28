@@ -22,7 +22,6 @@ Instale o salt-master
 Veja o seu endereço IPv4
 
 ```
-
 root@puppetmaster:~# ifconfig
 eth0      Link encap:Ethernet  HWaddr 00:0c:29:12:bb:0f  
           inet addr:192.168.17.130  Bcast:192.168.17.255  Mask:255.255.255.0
@@ -32,7 +31,6 @@ eth0      Link encap:Ethernet  HWaddr 00:0c:29:12:bb:0f
           TX packets:20024 errors:0 dropped:0 overruns:0 carrier:0
           collisions:0 txqueuelen:1000 
           RX bytes:28844823 (27.5 MiB)  TX bytes:2181661 (2.0 MiB)
-
 ```
 
 Edite o aquivo /etc/salt/master e vá até a linha abaixo
