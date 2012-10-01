@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Puppet: comparando a sintaxe com Salt"
+title: "Puppet: Comparando a sintaxe com Salt"
 date: 2012-09-28 10:38
 comments: true
 categories: tecnologia
@@ -23,7 +23,7 @@ service { "ssh":
 	require => Package["openssh-sever"]
 }
 	
-file { "/etc/ssg/sshd_config":
+file { "/etc/ssh/sshd_config":
 	mode    => 644,
 	owner   => root,
 	group   => root,
