@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "puppet: criando módulo saltstack"
+title: "Puppet: Criando módulo Saltstack"
 date: 2012-09-28 19:40
 comments: true
 categories: tecnologia
