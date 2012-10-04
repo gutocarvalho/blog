@@ -3,7 +3,7 @@ layout: post
 title: "Salt: Instalando master e minion em debian squeeze"
 date: 2012-09-28 16:41
 comments: true
-categories: tecnologia
+categories: [ tecnologia, salt ]
 ---
 
 Vou abordar como instalar rapidamente o salt-master e o salt-minion em debian squeeze, em seguida vou mostrar como executar comandos remotamente.

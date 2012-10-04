@@ -3,9 +3,9 @@ layout: post
 title: "Puppet: Lançada versão 3.0"
 date: 2012-10-01 14:11
 comments: true
-categories: tecnologia
+categories: [ puppet, tecnologia ]
 ---
-Foi lançado no dia 28/Set/12 a versão 3.0 do Puppet.
+Foi lançado no dia 28/Set/12 a versão [3.0](http://docs.puppetlabs.com/puppet/3/reference/release_notes.html) do Puppet
 
 ## Instruções para instalação
 
@@ -64,7 +64,7 @@ ext/rack/files/config.ru in the source distribution. (#15337)
 
 ## Changelog
 
-Para ver o changelog completo acesse a mensagem de lançamento no [puppet-announce](https://groups.google.com/group/puppet-announce/browse_thread/thread/96a993057f570edc).
+Para saber mais informações sobre o lançamento, acesse a mensagem de divulgação na lista [puppet-announce](https://groups.google.com/group/puppet-announce/browse_thread/thread/96a993057f570edc).
 
 [s]<br>
 Guto

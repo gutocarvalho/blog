@@ -3,7 +3,7 @@ layout: post
 title: "Saltstack"
 date: 2012-09-27 19:20
 comments: true
-categories: tecnologia
+categories: [ tecnologia, salt ]
 ---
 
 Há algum tempo venho compartilhando no blog meus estudos sobre gerência de configurações, e nestes estudos venho apresentando o Puppet como uma excelente ferramenta para implantar esse tipo de controle, porém ele não é a única opção, já mencionei o CHEF como uma ferramenta  alternativa e recentemente meu bom amigo @douglasandrade me apresentou o SaltStack.

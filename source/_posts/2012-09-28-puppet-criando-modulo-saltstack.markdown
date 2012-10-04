@@ -3,7 +3,7 @@ layout: post
 title: "Puppet: Criando módulo Saltstack"
 date: 2012-09-28 19:40
 comments: true
-categories: tecnologia
+categories: [ tecnologia, salt, puppet ]
 ---
 
 Eu já mostrei como instalar o Salt manualmente, agora vou compartilhar com vocês o módulo que criei para instalá-lo via puppet em todo o nosso parque de servidores.
