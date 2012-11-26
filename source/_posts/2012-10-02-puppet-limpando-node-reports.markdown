@@ -37,7 +37,7 @@ Precisamos evitar esse tipo de transtorno, vou mostrar algumas formas de limpar 
 
 Podemos fazer isto usando simplesmente o comando abaixo.
 
-    find /var/lib/puppet/reports/*.yaml -mtime +14 -exec rm -rf {} \;
+    find /var/lib/puppet/reports -name *.yaml -mtime +14 -exec rm -rf {} \;
 
 Esse comando vai apagar todos os arquivos com extensão `yaml` do diretório `reports` com idade maior ou igual a `14` dias.
 
@@ -49,7 +49,7 @@ Podemos ainda criar no puppet um cron para executar isto diariamente, veja o exe
 class cleanreports {
 
 	cron { "clean reports":
-		command => "find /var/lib/puppet/reports/*.yaml -mtime +14 -exec rm -rf {} \;"
+		command => "find /var/lib/puppet/reports -name *.yaml -mtime +14 -exec rm -rf {} \;"
 		user => root, 
 		hour => 01, 
 		minute => 00,  
