@@ -6,7 +6,7 @@ comments: true
 categories: [ tecnologia, puppet ]
 ---
 
-Os usuários de puppet estão concentrando as informações relativas a problemas encontrados no upgrade para a versão 3.0. Se você identificou algum problema de fucionamento em seu ambiente após a atualização, por gentileza informe nesta [wiki](http://projects.puppetlabs.com/projects/puppet/wiki/Telly_Upgrade_Issues).
+Os usuários de puppet estão concentrando as informações relativas a dificuldades encontradas no upgrade para a versão 3.0. Se você identificou algum problema de fucionamento em seu ambiente após a atualização, por gentileza informe nesta [wiki](http://projects.puppetlabs.com/projects/puppet/wiki/Telly_Upgrade_Issues).
 
 Hoje ministrei um workshop de puppet já usando a v3, percebi - pelo menos no debian - que o ralsh não vem mais no pacote do puppet.
 
