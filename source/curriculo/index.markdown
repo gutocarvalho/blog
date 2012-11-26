@@ -301,6 +301,14 @@ Website: http://www.mileniuminformatica.com.br<br>
 
 ##### 2012
 
+**Oficina Puppet e Gerência de Configurações**<br>
+Local: Latinoware 2012 - Foz do Iguaçú<br>
+19/Outubro/12<br>
+
+**Workshop Puppet e Gerência de Configurações**<br>
+Local: Brasilia/DF<br>
+05 a 08 de Outubro/12<br>
+
 **Webcast de Gerência de Configurações com Puppet**<br>
 Local: Site WebClass 4Linux<br>
 23/Agosto/12<br>
@@ -477,6 +485,7 @@ Período: 21/10/2004<br>
 
 #####2012
 
+Latinoware - Foz do Iguaçú - Outubro/12<br>
 Debian Day – Taguatinga/DF – Agosto/12<br>
 CloudConf – São Paulo/SP – Agosto/12<br>
 Semana de Tecnologia – Uniceub – Brasília/DF – Junho/12<br>
