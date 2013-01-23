@@ -301,6 +301,14 @@ Website: http://www.mileniuminformatica.com.br<br>
 
 ##### 2012
 
+**Gestão e automação de servidores com Puppet**<br>
+Local: TRE/MS e TJ/MS - Campo Grande/MS<br>
+15/Dezembro/12<br>
+
+**Gestão e automação de servidores com Puppet**<br>
+Local: UNAES - HORA LIVRE - Campo Grande/MS<br>
+12/Dezembro/12<br>
+
 **Oficina Puppet e Gerência de Configurações**<br>
 Local: Latinoware 2012 - Foz do Iguaçú<br>
 19/Outubro/12<br>
