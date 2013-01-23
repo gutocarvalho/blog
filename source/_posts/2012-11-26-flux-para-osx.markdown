@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "flux para osx"
+title: "Flux para OSX"
 date: 2012-11-26 10:08
 comments: true
 categories: tecnologia
