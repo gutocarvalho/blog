@@ -21,18 +21,18 @@ Sou especializado em ambientes GNU/LINUX (LPIC-3) e UNIX LIKE.
 
 ### 1.1 Experiência
 
-Tenho sólida experiência com sustentação de servidores de aplicação APACHE2, TOMCAT, JBOSS, sistemas de reverse proxy NGINX, HAPROXY, sistemas de web cache VARNISH, sistemas de proxy com SQUID e DANSGUARDIAN, controlador de domínio SAMBA3, serviço de DNS com BIND9, sistema de diretórios com OPENLDAP, bancos de dados MYSQL, POSTGRESQL sistemas de backup BACULA sistemas groupware ZIMBRA, EXPRESSO, EGROUPWARE, sistemas de correio POP/IMAP – DOVECOT, CYRUS, COURRIER, sistemas de correio SMTP – QMAIL, EXIM, POSTFIX, sistemas de comunicação segura, IPSEC, OPENVPN, sistemas de filtro de pacotes e roteamento avançado NETFILTER/IPTABLES, IPROUTE2, análises e scanners com NESSUS, NTOP, NMAP, SNORT, terminais remotos com LTSP, XDMCP, FREENX, monitoramento com NAGIOS, CACTI, ZABBIX, mensagem instantânea com JABBERD2, EJABBERD, WILDFIRE, replicação, alta disponibilidade e balanceamento de carga com RSYNC, DRDB, HEARTBEAT, LVS, POUND, CARP, gerência de configurações com PUPPET, SALT, virtualização com QEMU, XEN, KVM, VBOX, GANETI, programação em SHELLSCRIPT e DSL do PUPPET, documentação com MEDIAWIKI e DOKUWIKI, gerência de tickets com OTRS3, inventoria com OCS INVENTORY, servidor de arquivos com Samba, OpenFiler, FreeNAS e NFS.
+Tenho sólida experiência com sustentação de servidores de aplicação APACHE2, TOMCAT, JBOSS, sistemas de reverse proxy NGINX, HAPROXY, sistemas de web cache VARNISH, sistemas de proxy com SQUID e DANSGUARDIAN, controlador de domínio SAMBA3, serviço de DNS com BIND9, sistema de diretórios com OPENLDAP, bancos de dados MYSQL, POSTGRESQL sistemas de backup BACULA sistemas groupware ZIMBRA, EXPRESSO, EGROUPWARE, sistemas de correio POP/IMAP – DOVECOT, CYRUS, COURRIER, sistemas de correio SMTP – QMAIL, EXIM, POSTFIX, sistemas de comunicação segura, IPSEC, OPENVPN, sistemas de filtro de pacotes e roteamento avançado NETFILTER/IPTABLES, IPROUTE2, análises e scanners com NESSUS, NTOP, NMAP, SNORT, terminais remotos com LTSP, XDMCP, FREENX, monitoramento com NAGIOS, CACTI, ZABBIX, mensagem instantânea com JABBERD2, EJABBERD, WILDFIRE, replicação, alta disponibilidade e balanceamento de carga com RSYNC, DRDB, HEARTBEAT, LVS, POUND, CARP, gerência de configurações com PUPPET, SALT, virtualização com QEMU, XEN, KVM, VBOX, GANETI, programação em SHELLSCRIPT e DSL do PUPPET, documentação com MEDIAWIKI e DOKUWIKI, gerência de tickets com OTRS3, inventoria com OCS INVENTORY, servidor de arquivos com SAMBA, OpenFiler, FreeNAS e NFS.
 
 Além de ferramentas FOSS, também tenho experiência em operação e administração de ambientes de virtualização VMWARE (Com VCenter), Appliances Firewall Fortinet, Storages EMC Clariion CX3, CX4, NAS EMC Celerra, VTL EMC DL3D3000 e TL DELL ML6000.
 
 ## 2. Mini Currículo
 
 Consultor e instrutor especialista em TI com foco em sistemas UNIX LIKE e LINUX.
-Possui mais de 12 anos de experiência em TI administrando servidores UNIX e LINUX
-Atuou em projetos FOSS[0] no ITI [1], MC [2], MDA [3], EBC [4] , [5] DATAPREV, [6] DETRAN/DF e CAIXA.
-Palestrante em eventos especializados como FISL, CONSEGI, ENECOMP e FLISOL.
+Possui mais de 13 anos de experiência em TI administrando servidores UNIX e LINUX
+Atuou em projetos FOSS[0] no ITI [1], MC [2], MDA [3], EBC [4] , [5] DATAPREV, [6] DETRAN/DF e [7] CAIXA.
+Palestrante em eventos especializados como FISL, CONSEGI, ENECOMP, FLISOL, LATINOWARE e CLOUDCONF.
 
-É blogueiro, microblogueiro, mantenedor de wiki, palestrante e a apóia ações para o compartilhamento de conhecimento e democratização da produção, acesso e distribuição da informação de forma livre e justa.
+É blogueiro, microblogueiro, mantenedor de wiki, palestrante e a apóia ações para o compartilhamento de conhecimento e democratização da produção, acesso e distribuição da informação de forma livre.
 
 Mora atualmente em Brasília/DF.
 
@@ -43,6 +43,7 @@ Mora atualmente em Brasília/DF.
 [4] EBC: Empresa Brasil de Comunicação<br>
 [5] DATAPREV: Empresa de Processamento de dados da Previdência Social<br>
 [6] DETRAN/DF: Departamento de Trânsito do Distrito Federal<br>
+[7] CAIXA: Caixa Economica Federal
 
 ## 3. Currículo Profissional Detalhado
 
@@ -60,7 +61,7 @@ guto at gutocarvalho dot net<br>
 
 ##### 3.1.1 Construtor na 4Linux (Brasília/DF)
 Período: Maio de 2012 até o momento<br>
-Atividades: Consultoria e Instrutoria em tecnologias FOSS (Free and Open Source Software). 
+Atividades: Consultoria e Instrutoria em tecnologias FOSS (Free and Open Source Software).
 
 ##### 3.1.2 Analista de Suporte a Redes na B2BR (Brasília/DF)
 Período: Outubro de 2011 até Janeiro de 2012.<br>
@@ -108,19 +109,39 @@ Linux, Unix, Mac OS X, Windows, Shell Scripting, System Administration, Devops, 
 
 ### 3.4 Projetos
 
+#### 2013
+
+4Linux<br>
+- Migração de Solução Twiddle para Zabbix JMX Gateway - CX - Amb. de Cert. Digital<br>
+- Migração de Ambiente Zabbix 1.8.x para 2.0.x – CX - Amb. de Cert. Digital<br>
+
+Pesquisa e documentação em blogs/wikis/github<br>
+- Implantação de Ambiente HAPROXY para balanceamento de carga APACHE/JBOSS <br>
+- Implantação de Balanceamento de Links de internet em LINUX<br>
+- Implantação de Firewall Iptables e Proxy Transparente SQUID<br>
+- Implantação de servidores de DNS Bind9 Master/Slave<br>
+
 #### 2012
 
-Implantação de Sistema de Gerência de Configurações usando Salt - 4Linux<br>
-Implantação de Sistema de Gerência de Configurações no Expresso usando Puppet – 4Linux<br>
-Migração de Ambiente QMAIL para Ambiente Postfix + Cyrus + OpenLDAP - 4Linux<br>
-Migração de Ambiente Zabbix 1.8.x para Zabbix 2.0.x – 4Linux<br>
-Implantação de ambiente de desenvolvimento contínuo JAVA – 4Linux<br>
+4Linux<br>
+- Migração de Amb. Expresso de máquinas Físicas para Virtuais usando Puppet - CX<br>
+- Aplicado Treinamento de Puppet e Gerência de Configurações - CX<br>
+- Elaboração de material para treinamento de Puppet e Gerência de Configurações - CX<br>
+- Implantação de Sistema de Ger. de Conf. Puppet - CX - Amb. Expresso<br>
+- Implantação de Sistema de Ger. de Conf. Puppet - CX - Amb. PostgreSQL/APPWEB<br>
+- Migração de Amb. Zabbix 1.8.x para 2.0.x - CX - Amb. de Monitoração Expresso<br>
+- Migração de Amb.Zabbix 1.8.x para 2.0.x – CX - Amb. de Monitoração JBOSS/EXO<br>
+- Migração de Amb. Zabbix 1.8.x para 2.0.x – CX - Amb. de Monitoração PGSQL/APPWEB<br>
+- Migração de Amb. QMAIL para Ambiente Postfix/Cyrus/OpenLDAP<br>
+- Implantação de ambiente de desenvolvimento contínuo JAVA<br>
 
-Implantação de ambiente Dokuwiki – DETRAN/DF<br>
-Implantação de ambiente Zabbix – DETRAN/DF<br>
-Implantação de ambiente Puppet – DETRAN/DF<br>
-Implantação de ambiente piloto Zimbra7 – DETRAN/DF<br>
-Implantação de ambiente OpenFiler – DETRAN/DF<br>
+HEPTA<br>
+- Implantação de ambiente Dokuwiki – DETRAN/DF<br>
+- Implantação de ambiente Zabbix – DETRAN/DF<br>
+- Implantação de ambiente piloto Zabbix – INCRA<br>
+- Implantação de ambiente Puppet – DETRAN/DF<br>
+- Implantação de ambiente piloto Zimbra7 – DETRAN/DF<br>
+- Implantação de ambiente OpenFiler – DETRAN/DF<br>
 
 #### 2011
 
