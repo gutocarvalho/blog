@@ -5,17 +5,15 @@
 }
 
 * + table th, * + table td {
-  border-style:dashed;
+  border-style:solid;
   border-width:1px;
   border-color:#e7e3e7;
-  padding-left: 4px;
-  padding-right: 4px;
+  padding-left: 3px;
+  padding-right: 3px;
 }
 
-* + table th {
+* + table td {
   border-style:solid;
-  font-weight:bold;
-  background: url("/images/noise.png?1330434582") repeat scroll left top #F7F3F7;
 }
 
 * + table th[align="left"], * + table td[align="left"] {
