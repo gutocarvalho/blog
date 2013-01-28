@@ -3,7 +3,7 @@ layout: post
 title: "Puppet: Criando módulo NTP"
 date: 2012-10-01 12:09
 comments: true
-categories: [ tecnologia, puppet ]
+categories: puppet
 ---
 
 Hoje trago um exemplo de criação de módulo no Puppet com tratamento de condicionais e fatos, espero que os novos entusiastas consigam enxergar com mais

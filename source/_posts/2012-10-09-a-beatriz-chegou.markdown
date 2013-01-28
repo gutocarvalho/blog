@@ -3,7 +3,7 @@ layout: post
 title: "A Beatriz Chegou"
 date: 2012-10-09 10:09
 comments: true
-categories: 
+categories: cotidiano
 ---
 Nos próximos dias estarei ausente no BLOG e WIKI por um motivo muito especial, a Beatriz nasceu. Eu e minha esposa estamos
 cuidando dela com todo o carinho e atenção que são necessários nestes primeiros dias, a Beatriz é a nossa prioridade.  Na segunda - 15/Oct - retomarei 

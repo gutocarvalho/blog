@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Balanceando saida de internet no linux"
+title: "Balanceando links de internet no linux"
 date: 2012-12-24 07:37
 comments: true
-categories: tecnologia, linux 
+categories: firewall 
 ---
 
 Em um projeto recente precisei fazer o balanceamento de links no linux, o cliente possuía saída por dois provedores, sendo o primeiro NET/Virtua e o segundo Embratel, seu link Embratel estava ocioso e ele queria acabar com essa ociosidade.
@@ -19,7 +19,6 @@ Vamos a solução para essa necessidade.
 ## Ambiente
 
 Vamos descrever as configurações de rede do ambiente
-
 
     Interface eth0 está com rede interna (10.1.x.x/xx)
     Interface eth1 está conectado ao modem virtua (189.x.x.x)

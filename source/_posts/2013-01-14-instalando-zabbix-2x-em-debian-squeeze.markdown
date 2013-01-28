@@ -3,7 +3,7 @@ layout: post
 title: "Instalando Zabbix 2.0.4 Server, Proxy, Frontend, JMX e Agent em Debian Squeeze"
 date: 2013-01-14 15:27
 comments: true
-categories: zabbix, tecnologia
+categories: zabbix
 ---
 
 Neste post vou mostrar uma das muitas formas de instalar o Zabbix 2.0.4 em modo Server, Agent, Proxy e JMX Gateway.

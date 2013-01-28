@@ -3,7 +3,7 @@ layout: post
 title: "Puppet: Configuração em Trio"
 date: 2012-10-29 20:25
 comments: true
-categories: 
+categories: puppet
 ---
 
 Existe uma estrutura que gosto de chamar de 'configuração em trio' que é a base para automatizar vários tipos de serviços comuns em ambientes linux/unix, eu costumo utilizar esse modelo em classes que crio dentro e fora de módulos, é eficiente e prático, basta combinar três resource types (trio) e dois meta-parâmetros, são eles:

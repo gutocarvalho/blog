@@ -3,7 +3,7 @@ layout: post
 title: "Puppet para desenvolvedores java"
 date: 2012-10-03 17:05
 comments: true
-categories: [ tecnologia, puppet ]
+categories: puppet
 ---
 
 Meu bom amigo `Lucius Curado` me mandou esse vídeo muito interessante da #JAVAZONE que aborda como o puppet pode ajudar os desenvolvedores java em seus projetos.

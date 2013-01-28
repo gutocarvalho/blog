@@ -3,7 +3,7 @@ layout: post
 title: "Puppet: Lançada versão 3.0"
 date: 2012-10-01 14:11
 comments: true
-categories: [ puppet, tecnologia ]
+categories: puppet
 ---
 Foi lançado no dia 28/Set/12 a versão [3.0](http://docs.puppetlabs.com/puppet/3/reference/release_notes.html) do Puppet
 

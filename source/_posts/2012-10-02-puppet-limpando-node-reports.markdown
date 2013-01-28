@@ -3,7 +3,7 @@ layout: post
 title: "Puppet: Limpando Node Reports"
 date: 2012-10-02 11:56
 comments: true
-categories: [ tecnologia, puppet ]
+categories: puppet
 ---
 
 ### Node Reports

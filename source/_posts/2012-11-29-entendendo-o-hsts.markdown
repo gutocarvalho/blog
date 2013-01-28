@@ -3,7 +3,7 @@ layout: post
 title: "Entendendo o HSTS"
 date: 2012-11-29 09:56
 comments: true
-categories: tecnologia
+categories: security
 ---
 
 ## 1. HSTS

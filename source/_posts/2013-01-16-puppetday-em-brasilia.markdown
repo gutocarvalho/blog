@@ -3,7 +3,7 @@ layout: post
 title: "PuppetDay em Brasília"
 date: 2013-01-16 11:22
 comments: true
-categories: puppet, tecnologia
+categories: puppet
 ---
 
 Em 2013 estou com muita vontade de organizar um Puppet Day em Brasília, algo para o mês de Maio ou Junho, por isso aproveito para fazer o convite aqui no Blog.

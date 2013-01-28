@@ -3,12 +3,12 @@ layout: post
 title: "Instalando Octopress no Mountain Lion"
 date: 2013-01-23 09:23
 comments: true
-categories: tecnologia, octopress
+categories: octopress
 ---
 
 ## 1. Sobre octopress
 
-O Octopress é um framework para o Jekyll. O Jekyl por sua vez é um gerador de sistes estáticos. Quando usamos o Jekyll diretamente precisamos criar toda a estrutura HTML, CSS, Javascript e configurá-la, com o octopress isso já tudo já está pronto.
+O Octopress é um framework para o Jekyll. O Jekyl por sua vez é um gerador de sistes estáticos. Quando usamos o Jekyll diretamente precisamos criar toda a estrutura HTML, CSS, Javascript e configurá-la, com o octopress isso tudo já vem pronto.
 
 Tanto o Octopress quanto o Jekyll foram escritos em Ruby.
 
@@ -191,15 +191,15 @@ Mais informações em
 
 ## 7. Dicas Soltas
 
-Eu uso o Mou como editor Markdown para Octopress, é possível alterar o código do octopress para ele abrir o Mou no momento em que você criar um post ou página.
+Eu uso o Mou como editor Markdown para Octopress, é possível alterar o código do octopress para ele abrir o Mou após a criação de um post ou página.
 
-É perfeitamente possível blogar através do VIM, eventualmente eu faço isto, porém acho o MOU mais confortável.
+É perfeitamente possível blogar através do VIM, eventualmente faço isto, porém acho o MOU mais confortável.
 
 Para comentários eu uso o Disqus.
 
-O restante é o padrão do Octopress.
-
 Eu uso muito o plugin nativo Codeblock.
+
+O restante é o padrão do Octopress.
 
 Eu comecei a migrar os post do Wordpress - quase 500 posts, mas achei cansativo e chato arrumar post a post devido aos problemas de sintaxe markdown do script exitwp, acabei deixando o wordpress no ar e quando estiver com tempo volto a pensar nessa migração.
 

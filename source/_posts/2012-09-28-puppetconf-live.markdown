@@ -3,7 +3,7 @@ layout: post
 title: "PuppetConf Live"
 date: 2012-09-28 15:27
 comments: true
-categories: [ tecnologia, puppet ]
+categories: puppet
 ---
 
 No dia 27 começou a PuppetConf, você pode assistir através do site da [puppetlabs.](http://puppetlabs.com/puppetconf-live/)

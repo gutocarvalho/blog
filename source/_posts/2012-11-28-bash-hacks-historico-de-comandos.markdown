@@ -3,7 +3,7 @@ layout: post
 title: "Bash Hacks: Histórico de comandos"
 date: 2012-11-28 17:20
 comments: true
-categories: tecnologia
+categories: console
 ---
 
 ## 1. Entendendo o history

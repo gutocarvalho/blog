@@ -3,7 +3,7 @@ layout: post
 title: "Puppet: Slides Oficina Latinoware 2012"
 date: 2012-10-26 09:55
 comments: true
-categories: puppet, tecnologia
+categories: [ puppet, slides ]
 ---
 
 Como combinado estou colocando o slides do Oficina Puppet que ministrei no dia 19/Outubro no Latinoware 2012.

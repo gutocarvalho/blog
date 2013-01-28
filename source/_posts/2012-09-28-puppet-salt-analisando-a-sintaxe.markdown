@@ -3,7 +3,7 @@ layout: post
 title: "Puppet: Comparando a sintaxe com Salt"
 date: 2012-09-28 10:38
 comments: true
-categories: [ tecnologia, salt, puppet ]
+categories: [ salt, puppet ]
 ---
 
 Estive estudando a sintaxe do Salt, abaixo mostro como declarar um pacote, um serviço e um arquivo na DSL do Puppet e na SLS (YAML) do Salt, apenas com objetivo de comparar suas diferenças.
