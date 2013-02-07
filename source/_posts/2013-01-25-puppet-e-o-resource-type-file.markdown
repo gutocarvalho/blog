@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Puppet Resource Type File e Multiplos Sources"
+title: "Puppet Resource Type File e Múltiplos Sources"
 date: 2013-01-25 20:47
 comments: true
 categories: puppet
