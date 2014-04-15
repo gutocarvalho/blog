@@ -5,7 +5,7 @@ single: true
 
 <div>
 <article class="hentry" role="article">
-  {% include article.html %}
+{% include article.html %}
   <footer>
     <p class="meta">
       {% include post/author.html %}
@@ -23,6 +23,19 @@ single: true
         <a class="basic-alignment right" href="{{page.next.url}}" title="Next Post: {{page.next.title}}">{{page.next.title}} &raquo;</a>
       {% endif %}
     </p>
+
+	<script type="text/javascript"><!--
+	google_ad_client = "ca-pub-4522619864758419";
+	/* oct_footer */
+	google_ad_slot = "6456797118";
+	google_ad_width = 468;
+	google_ad_height = 60;
+	//-->
+	</script>
+	<script type="text/javascript"
+	src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+	</script>
+
   </footer>
 </article>
 {% if site.disqus_short_name and page.comments == true %}

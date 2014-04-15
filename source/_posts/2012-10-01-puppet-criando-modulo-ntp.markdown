@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Puppet: Criando módulo NTP"
+title: "Puppet Criando módulo NTP"
 date: 2012-10-01 12:09
 comments: true
 categories: puppet

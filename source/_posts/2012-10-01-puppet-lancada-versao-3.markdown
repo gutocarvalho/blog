@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Puppet: Lançada versão 3.0"
+title: "Puppet Lançada versão 3.0"
 date: 2012-10-01 14:11
 comments: true
 categories: puppet

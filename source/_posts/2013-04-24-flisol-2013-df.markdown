@@ -1,0 +1,70 @@
+---
+layout: post
+title: "FLISOL 2013 BR/DF"
+date: 2013-04-24 07:01
+comments: true
+categories: eventos
+---
+
+## 1. O que é o FLISOL?
+
+{% img right /images/logo_flisol.png %}
+
+O Festival Latino Americano de Instalação de Software Livre – FLISol é um evento internacional, realizado anualmente, e que ocorre de forma simultânea em diversas cidades da América Latina. O Flisol é um evento descentralizado, onde diversas comunidades organizam e realizam seu festival, de forma voluntária, tendo como principal objetivo promover o uso de software livre, apresentando sua filosofia, alcance, avanços e desenvolvimento ao público em geral.
+
+O Flisol acontece, historicamente, no 4º sábado de abril (em 2006 foi no 25 de março; em 2007, 28 de abril; 2008, 26 de abril; 2009 e 2010, no dia 24 de abril; 2011, no dia 9 de abril; 2012, no dia 28 de abril). O Flisol 2013 está marcado para o dia 27 de abril.
+
+O evento é gratuito e aberto a todo o público: curiosos, interessados e amantes do Software Livre. Nesse dia os voluntários propõe a instalação de Software Livre, como distribuições de Gnu/Linux, sistemas BSD, e aplicativos livres para Windows em geral. Alguns eventos também contam com palestras, oficinas, sala de degustação e gravações de mídias (live-CD/DVD e/ou pendrives).
+
+
+### 1.1. FLISOL-DF
+
+A cada ano a organização do FLISOL no Distrito Federal escolhe um local diferente para realização do evento, neste ano o evento será no IESB OESTE – Ceilândia Norte, QNN 31 – Áreas Especiais B/C/D/E, Ceilândia – DF.
+
+Mais detalhes no site [http://www.flisoldf.blog.br](http://www.flisoldf.blog.br).
+
+### 1.2. Lista de atividades
+
+Acesse a [lista de atividades](http://sistema.flisoldf.blog.br/public/atividades) do evento e faça sua inscrição nas palestras e oficinas em que deseje participar.
+
+## 2. Minhas atividades no FLISOL-DF
+
+Eu vou apresentar quatro trabalhos no FLISOL deste ano, veja os detalhes a seguir.
+
+### 2.1. Monitoramento avançado com Zabbix 2.0
+
+Horário: 11:00hs
+
+Sala: Espaço Ubuntu - Sala BA11 - Bloco B
+
+A palestra tem o objetivo de apresentar a ferramenta de monitoração Zabbix e os seus principais recursos na versão 2.0. A atividade abordará conceitos de monitoramento, fará uma introducão ao zabbix e apresentará os seus recursos comuns. Em um segundo momento demonstrará os novos recursos do zabbix 2.0 como: zabbix distribuído (proxy/node), zabbix monitorando aplicações java com JMX Gateway e tuning de Zabbix para grandes ambientes.
+
+### 2.2. Oficina de instalação de Zabbix 2.0
+
+Horário: 14:00hs
+
+Sala: Espaço Mandriva - Sala BA5 - Bloco B
+
+Oficina de instalação do Zabbix Server, Zabbix Frontend, Zabbix Agent, Zabbix Proxy e JMX Gateway.
+
+
+## 2.3. Infraestrutura ágil
+
+Horário: 15:00hs
+
+Sala: Espaço Fedora - Sala BA6 - Bloco B
+
+Apresentar o conceito de gerência de configurações, orquestração e provisionamento utilizando as ferramentas Puppet e Mcollective. Demonstrar que com o uso destas tecnologias o administrador de sistemas terá condições de administrar centenas de servidores de forma descomplicada, centraliza e ágil. Dentre as principais vantagens no uso de gerência de configurações estão: Diminuição de custos, Diminuição de incidentes, Padronização do ambiente, Diminui o tempo gasto com mudanças, Controle e acompanhamento do ciclo de vida do parque de servidores.
+
+## 2.4. O que é DevOps afinal?
+
+Horário: 16:00hs
+
+Sala: Espaço Puppy - Sala AA1 - Bloco A
+
+O objetivo é esclarecer de forma objetiva o que significa DevOps, mostrar como esse movimento se iniciou, apresentar suas principais características e indicar um caminho para que se consiga absorver e internalizar essa cultura no ambiente corporativo. DevOps é essencialmente uma cultura que busca entregar sistemas melhores, com menor custo, fazendo isto de forma mais rápida e com menor risco. Dentro de DevOps trabalhamos intensamente automação, principalmente automação de infraestrutura com gerência de configurações, orquestração e provisionamento, falaremos muito de infraestrutura como código.
+
+Nos vemos no FLISOL.
+
+[s]<br>
+Guto

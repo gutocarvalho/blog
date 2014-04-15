@@ -1,0 +1,136 @@
+---
+layout: post
+title: "Copy APP"
+date: 2013-05-21 11:41
+comments: true
+categories: tecnologia
+---
+
+## 1. Cloud Storage com o COPY
+
+Ontem eu encontrei um post no Google Plus falando sobre a APP [COPY](https://www.copy.com/home/?r=X36W03&signup=1), quando olhei, eu pensei que fosse mais uma dessas APP de CLOUD Storage que vão me oferecer míseros 2 gigas, algo que não vale a pena investir já que uso o Dropbox e tenho cerca de 18 gigas atualmente (tudo na base de invites), contudo, vi que eles anunciaram 15GB de cara, isso me deixou bastante interessado e fui olhar de perto.
+
+Por trás do COPY está a empresa [Barracuda Networks](https://www.barracuda.com/) que possui uma grande experiência com serviços de segurança, rede, armazenamento e backup. No lançamento do COPY eles estavam oferecendo apenas 5 gigas, mas agora estão mais agressivos oferecendo 15 gigas já de início.
+
+A COPY parece ser o primeiro concorrente para valer do DROPBOX, a aplicação é praticamente um clone, tem todas as features do DROPBOX e oferece uma interface web mais polida, além disto, há uma integração com as principais redes sociais (Google Plus, Facebook e Twitter). 
+
+Veja abaixo um vídeo sobre o COPY:
+
+<iframe width="560" height="315" src="http://www.youtube.com/embed/m36ZMdE-vro" frameborder="0" allowfullscreen></iframe>
+
+## 2. Sincronização
+
+De ontem para hoje eu instalei no Macbook Pro, Android, IOS e no IMac, já sincronizei dados entre os dispositivos, subi arquivos pequenos e subi uma discografia de 1 GB com vários arquivos mp3, a discografia subiu em menos de 10 minutos, nem preciso dizer que o DROPBOX fica muito atrás na velocidade de UPLOAD e também na velocidade de DOWNLOAD (apesar de ser um ótimo serviço). O Download da discografia em outro dispositivo levou cerca de 25 minutos, demorou mais para descer do que para subir.
+
+### 2.1 Notificações
+
+Senti falta dos indicadores e notificações nos ícones como temos no DROPBOX, algo como  já foi sincronizado (verde), sincronizando (amarelo), isso o Copy ainda não tem.
+
+### 2.2 Pause Sync
+
+Esse recurso é essencial, não tem no em várias apps de cloud storage, mas vem nativamente no COPY, com isso, se quisermos parar por alguma razão a sincronização é só clicar no PAUSE, acredite, isto é muito útil.
+
+## 3. Pastas compartilhadas
+
+Ontem também compartilhei uma pasta com a Jéssica (@jemmacedo), fiz isso rapidinho e sem dificuldades, o compartilhamento funcionou muito bem e continua funcionando.
+
+## 4. Armazenamento
+
+Outra questão interessante, quando você cria a conta já tem 15 Gigas de cara e chegará a 17 gigas fazendo um simples compartilhamento de link em alguma rede social. Você pode também fazer indicações de amigos, mas não é como o DROPBOX que pede acesso a sua conta do GMAIL e sai mandando convites a torto e direito, no COPY é um por um, você preenche nome, sobrenome e e-mail, contudo, cada pessoa que instalar te dá mais 5 GB de espaço enquanto o DROPBOX dá 500MB para a mesma coisa. No momento já estou com 52 GB de espaço por lá, tudo via referrals e bonus.
+
+## 5. Arquivos públicos
+
+Quando desejar compartilhar um arquivo de forma pública você pode escolher as redes sociais (Facebook, Twitter, Google Plus ou E-mail),
+é gerado um LINK e este será postado nas redes sociais ou no e-mail.
+
+Compartilhar por e-mail traz as mesmas vantagens do DROPBOX, vai o link apenas e não o arquivo anexo, evitando limitações de anexo e
+deixando o coitado do administrador do servidor de e-mail mais feliz,
+afinal e-mail não é para isto.
+
+## 6. Company
+
+Ele oferece ainda um recurso chamado **company**, que te permite criar um folder dentro do seu compartilhamento e definir usuários que podem utilizar esse folder, a versão free é bem simples mas existem planos pagos que habilitam mais recursos de controle, e não é cobrado por pessoa como em outros sistemas, é uma taxa única anual, mais simples e honesto - eu acho.
+
+O que isso resolve? 
+
+Sabe quando você tem uma conta Dropbox pessoal e não quer misturar com a conta Dropbox de trabalho (é, tem muita gente que tem duas), pelo o que eu entendi o recurso company existe para resolver isto. Ao invés de ficar trocando de contas, o company trata isso de forma elegante - em minha humilde opinião, claro.
+
+Mas isso não é igual a compartilhar uma pasta? Parecido, mas não é igual, afinal você tem mais recursos de controle, como grupos por exemplo, a versão 'comercial' ainda oferece revogação de acesso
+e além disto, o espaço **company** não usa seu espaço de usuário,
+aparentemente é um storage separado.
+
+## 7. Plataformas suportadas
+
+* Linux
+* Windows
+* OSX
+* Android
+* IOS
+ 
+## 8. Planos
+
+Eles tem dois tipos de planos, o pessoal e o company.
+
+### 8.1 Personal Plans
+
+* Free 15 GB => Sem custo e pode aumentar conforme indicações.
+* Pro 250 GB => U$ 9.9 dólares por mês ou U$ 99.00 por ano.
+* Pro 500 GB => U$ 14.99 dólares por mês ou U$ 149.00 por ano.
+
+### 8.2 Company Plans
+
+* 100 GB => U$ 399.00 por ano
+* 250 GB => U$ 699.00 por ano
+* 500 GB => U$ 999.00 por ano
+
+### 8.3 Planos Copy vs Planos Dropbox
+
+Em relação aos planos PRO que são similares ao Personal do COPY
+
+* DROPBOX FREE  => 2 GB
+* DROPBOX 100GB => U$ 9.99 por mês ou U$ 99 por ano
+* DROPBOX 200GB => U$ 19.99 por mês ou U$ 199 por ano
+* DROPBOX 500GB => U$ 49.99 por mês ou U$ 499 por ano
+
+O Dropbox tem planos para empresas mas depende da quantidade de usuários, é necessário solicitar um orçamento, contudo, segundo
+o site do Dropbox, a partir de U$ 785,00 o uso de disco é ilimitado
+mas não deixa claros se os usuários também.
+
+## 9. Screenshots
+
+### 9.1 Web Interface
+
+{% img center /images/posts/2013-05-21/copy_web_interface_folders.png [web interface folders] %}
+
+{% img center /images/posts/2013-05-21/copy_web_interface_sharing.png [web interface sharing] %}
+
+{% img center /images/posts/2013-05-21/copy_web_company.png [web interface company] %}
+
+{% img center /images/posts/2013-05-21/copy_web_planos.png [copy planos] %}
+
+### 9.2 OSX Interface
+
+{% img center /images/posts/2013-05-21/copy_osx_tela1.png [copy osx tela 1] %}
+
+{% img center /images/posts/2013-05-21/copy_osx_tela2.png [copy osx tela 2] %}
+
+{% img center /images/posts/2013-05-21/copy_osx_tela3.png [copy osx tela 3] %}
+
+{% img center /images/posts/2013-05-21/copy_osx_tela4.png [copy osx tela 4] %}
+
+{% img center /images/posts/2013-05-21/copy_osx_tela5.png [copy osx tela 5] %}
+
+## 10. Amarrando as pontas
+
+Ainda é cedo para falar bem ou mal, mas estou gostando, o serviço promete, está estável e funcional, e parece que em breve se tornará viral, e isso será um desafio para a equipe que mantém a infra do serviço.
+
+Vale lembrar que o serviço é novo, tem pouca gente usando em comparação com o DROPBOX, se saturar de usuários, poderá ficar igualmente lento, vamos aguardar e acompanhar a evolução do COPY.
+
+## 11. Referências
+
+* [https://www.copy.com](https://www.copy.com)
+* [https://www.copy.com/about](https://www.copy.com/about)
+* [https://www.copy.com/about/pr](https://www.copy.com/about/pr)
+* [https://www.copy.com/developer](https://www.copy.com/developer)
+* [https://www.copy.com/about/tos](https://www.copy.com/about/tos)
+* [https://www.copy.com/about/dmca](https://www.copy.com/about/dmca)

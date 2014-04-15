@@ -5,7 +5,7 @@
 #url: http://gutocarvalho.github.com
 url: http://gutocarvalho.net/octopress
 title: gutocarvalho.net
-subtitle: cotidiano simples, vida feliz.
+subtitle: Tecnologia, cotidiano e vida geek.
 author: Guto Carvalho
 simple_search: http://google.com/search
 description: site pessoal de guto carvalho
@@ -21,6 +21,7 @@ subscribe_rss: /octopress/atom.xml
 subscribe_email:
 # RSS feeds can list your email address if you like
 email: gutocarvalho@gmail.com
+category_feeds: true
 
 # ----------------------- #
 #    Jekyll & Plugins     #
@@ -38,8 +39,8 @@ category_dir: categories
 markdown: rdiscount
 pygments: false # default python pygments have been replaced by pygments.rb
 
-paginate: 6          # Posts per page on the blog index
-pagination_dir:  # Directory base for pagination URLs eg. /blog/page/2/
+paginate: 2           # Posts per page on the blog index
+pagination_dir:       # Directory base for pagination URLs eg. /blog/page/2/
 recent_posts: 4       # Posts in the sidebar Recent Posts section
 excerpt_link: "Read on &rarr;"  # "Continue reading" link text at the bottom of excerpted articles
 
@@ -47,7 +48,7 @@ titlecase: false       # Converts page and post titles to titlecase
 
 # list each of the sidebar modules you want to include, in the order you want them to appear.
 # To add custom asides, create files in /source/_includes/custom/asides/ and add them to the list like 'custom/asides/custom_aside_name.html'
-default_asides: [custom/asides/about.html, asides/twitter.html, asides/recent_posts.html, custom/asides/category_list.html, asides/github.html,  asides/delicious.html, asides/pinboard.html, asides/googleplus.html]
+default_asides: [custom/asides/about.html, asides/twitter.html, asides/recent_posts.html, custom/asides/category_cloud.html, custom/asides/recent_comment.html, custom/asides/instruct.html, asides/github.html, custom/asides/certs.html ]
 
 # Each layout uses the default asides, but they can have their own asides instead. Simply uncomment the lines below
 # and add an array with the asides you want to use.
@@ -95,7 +96,8 @@ disqus_short_name: gutocarvalho
 disqus_show_comment_count: true
 
 # Google Analytics
-google_analytics_tracking_id: UA-1356269-1
+#google_analytics_tracking_id: UA-1356269-1
+google_analytics_tracking_id:
 
 # Facebook Like
 facebook_like: true

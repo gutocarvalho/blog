@@ -3,7 +3,7 @@ layout: post
 title: "Balanceando links de internet no linux"
 date: 2012-12-24 07:37
 comments: true
-categories: firewall 
+categories: security
 ---
 
 Em um projeto recente precisei fazer o balanceamento de links no linux, o cliente possuía saída por dois provedores, sendo o primeiro NET/Virtua e o segundo Embratel, seu link Embratel estava ocioso e ele queria acabar com essa ociosidade.

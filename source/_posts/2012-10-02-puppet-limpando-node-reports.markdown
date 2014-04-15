@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Puppet: Limpando Node Reports"
+title: "Puppet Limpando Node Reports"
 date: 2012-10-02 11:56
 comments: true
 categories: puppet
@@ -49,7 +49,7 @@ Podemos ainda criar no puppet um cron para executar isto diariamente, veja o exe
 class cleanreports {
 
 	cron { "clean reports":
-		command => "find /var/lib/puppet/reports -name *.yaml -mtime +14 -exec rm -rf {} \;"
+		command => "find /var/lib/puppet/reports -name *.yaml -mtime +14 -exec rm -rf {} \;",
 		user => root, 
 		hour => 01, 
 		minute => 00,  
@@ -78,11 +78,33 @@ Veja que estou dizendo ao Tidy que ele deve limpar arquivos com extensão `yaml`
 
 O único inconveniente desta alternativa é que ele vai rodar o tidy a cada execução do puppet no master, e caso sua janela seja curta (10 min) isso pode ser um problema, causando um aumento excessivo do load de seu puppetmaster de forma regular.
 
+#### 2.4 Usando Exec + Schedule
+
+Podemos combinar o resource type exec com o resource type schedule, veja um exemplo:
+
+{% codeblock lang:puppet %}
+class cleanreports {
+
+        schedule { 'daily':
+               range  => "01:00 - 02:00",
+               period => daily,
+               repeat => 1,
+        }
+
+        exec { 'cleanrepors':
+               command  => "/usr/bin/find /var/lib/puppet/reports -name *.yaml -mtime +14 -exec rm -rf {} \;",
+               schedule => 'daily',
+        }
+}
+{% endcodeblock %}
+
+No exemplo acima o exec vai rodar 1 vez ao dia entre 01 e 02 da manhã.
+
 ### 3. Amarrando as pontas
 
 Existem diferentes formas de evitar um disk full, podemos fazer a limpeza de arquivos usando comandos do linux (find), podemos usar recursos nativos do puppet (tidy), podemos combinar comandos do sistema (find) com recursos do puppet (cron), isso vai depender de sua criatividade e necessidade.
 
-Eu apresentei apenas três exemplos que podem resolver problemas deste tipo,
+Eu apresentei apenas quatro exemplos que podem resolver problemas deste tipo,
 porém cada cenário normalmente pede uma solução específica.
 
 É sempre bacana ler a documentação do puppet para entender e encontrar recursos que possam nos ajudar a resolver um problema, eu não conhecia o TIDY, mas vi que ele pode ser muito útil nesta situação.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Puppet: Relatos de uso V3"
+title: "Puppet Relatos de uso V3"
 date: 2012-10-03 16:22
 comments: true
 categories: puppet

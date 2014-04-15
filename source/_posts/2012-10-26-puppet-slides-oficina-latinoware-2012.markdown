@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Puppet: Slides Oficina Latinoware 2012"
+title: "Puppet Slides Oficina Latinoware 2012"
 date: 2012-10-26 09:55
 comments: true
 categories: [ puppet, slides ]

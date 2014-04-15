@@ -117,7 +117,7 @@ Se quiser, instale o ruby 1.9.2
 
 Defina que o ruby 1.9.3 é o default
 
-    rvm usr 1.9.3 --default
+    rvm use 1.9.3 --default
     
 ## 6. Octopress
 

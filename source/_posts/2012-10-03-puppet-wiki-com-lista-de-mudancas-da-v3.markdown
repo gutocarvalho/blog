@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Puppet: Wiki com mudanças da V3"
+title: "Puppet Wiki com mudanças da V3"
 date: 2012-10-03 17:24
 comments: true
 categories: puppet
