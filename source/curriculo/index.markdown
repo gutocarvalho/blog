@@ -30,12 +30,12 @@ Sou especializado na administração de ambientes LINUX (RHCE/LPIC-301), monitor
 
 ## 2. Mini Currículo (para palestras)
 
-Consultor e instrutor especialista em TI com foco em sistemas UNIX e LINUX.
-Possui mais de 14 anos de experiência em TI administrando redes e sustentando servidores UNIX e LINUX.
-Atuou em projetos FOSS[0] no ITI [1], MINICOM [2], MDA [3], EBC [4] , [5] DATAPREV, [6] DETRAN/DF,  [7] CAIXA e [8] Anatel.
-Palestrante em eventos especializados como FISL, CONSEGI, ENECOMP, FLISOL, FSD, LATINOWARE e CLOUDCONF.
-É blogueiro, microblogueiro e mantenedor de wikis técnicas.
-Mora atualmente em Brasília/DF.
+Consultor e instrutor especialista em TI com foco em sistemas UNIX e LINUX.<br>
+Possui mais de 14 anos de experiência em TI administrando redes e sustentando servidores UNIX e LINUX.<br>
+Atuou em projetos FOSS[0] no ITI [1], MINICOM [2], MDA [3], EBC [4] , [5] DATAPREV, [6] DETRAN/DF,  [7] CAIXA e [8] Anatel.<br>
+Palestrante em eventos especializados como FISL, CONSEGI, ENECOMP, FLISOL, FSD, LATINOWARE e CLOUDCONF.<br>
+É blogueiro, microblogueiro e mantenedor de wikis técnicas.<br>
+Mora atualmente em Brasília/DF.<br>
 
 [0] FOSS: Free and open-source software<br>
 [1] ITI: Instituto Nacional de Tecnologia da Informação<br>
