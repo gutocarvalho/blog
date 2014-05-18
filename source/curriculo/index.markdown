@@ -683,7 +683,7 @@ I Semana de Software Livre para Administração Pública, Governo do MS<br>
 ##### 2008
 
 Campus Party Brasil 2008<br>
-- Oficina Processamento Paralelo com a ferramenta POVRAY.<br>
+- Oficina Processamento Paralelo em Linux<br>
 
 IV Encontro do Técnicos Especialistas em Software do Projeto CasaBrasil/ITI<br>
 - Oficina de ferramentas para manipulação de imagens, fotos e vetores.<br>
@@ -706,7 +706,7 @@ III Encontro do Técnicos Especialistas em Software do Projeto CasaBrasil/ITI<br
 - Aplicando oficinas usando Paulo Freire;<br>
 - Oficina de inclusão digital;<br>
 - Inclusão Digital e inclusão social;<br>
-- Metareciclagem.<br>
+- Introdução ao conceito Metareciclagem.<br>
 
 ##### 2006
 
