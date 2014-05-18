@@ -15,11 +15,11 @@ Esta seção está organizada da seguinte forma:
 
 ## 1. Resumo das qualificações
 
-Possuo cerca de 14 anos de experiência na área de tecnologia com foco em infraestrutura de redes, atuando com sustentação de servidores, sistemas e serviços.
+Possuo mais de 14 anos de experiência em infraestrutura de TI, atuando na administração de redes e na sustentação de servidores e sistemas UNIX e LINUX.
 
 ### 1.1 Experiência
 
-Tenho sólida experiência com sustentação de servidores de aplicação APACHE HTTPD, APACHE TOMCAT, JBOSS, sistemas de reverse proxy NGINX, HAPROXY, sistemas de web cache VARNISH, sistemas de proxy com SQUID e DANSGUARDIAN, controlador de domínio com SAMBA/OPENLDAP, serviço de DNS com BIND, sistema de diretórios com OPENLDAP, bancos de dados MYSQL, POSTGRESQL, SQLITE, sistema de backup BACULA, sistemas groupware ZIMBRA, EXPRESSO, sistemas de correio POP/IMAP – DOVECOT, CYRUS, COURRIER, sistemas de correio SMTP – QMAIL, EXIM, POSTFIX, sistemas de comunicação segura, IPSEC, OPENVPN, sistemas de filtro de pacotes e roteamento avançado NETFILTER/IPTABLES, IPROUTE2, PF, análises de rede com TCPDUMP, IPTRAF, IPERF, OPENVAS, NTOP, NMAP, SNORT, terminais remotos com LTSP, XDMCP, monitoramento com NAGIOS, CACTI, ZABBIX, mensagem instantânea com JABBER, WILDFIRE, replicação, alta disponibilidade e balanceamento de carga com RSYNC, DRDB, HEARTBEAT, LVS, POUND, CARP, gerência de configurações e provisionamento com PUPPET, FOREMAN e SPACEWALK, orquestração e processamento paralelo com SALT e MCOLLECTIVE, virtualização com XEN, KVM, VBOX, GANETI, linguagens SHELLSCRIPT, PUPPET DSL, documentação com MEDIAWIKI, DOKUWIKI, gerência e organização de datacenter com RACKTABLES, gerência corporativa de credenciais com TEAMPASS, gerência de tickets com OTRS, inventoria com OCS, controle de versões com SVN/GIT/CVS, servidor de arquivos com SAMBA, OpenFiler, FreeNAS e NFS, criação de ambientes virtualizados com vagrant, packer e veewee, ambiene de containers com docker.
+Tenho sólida experiência com sustentação de servidores de aplicação APACHE HTTPD, APACHE TOMCAT, JBOSS, sistemas de reverse proxy NGINX, HAPROXY, sistemas de web cache VARNISH, sistemas de proxy com SQUID e DANSGUARDIAN, controlador de domínio com SAMBA/OPENLDAP, serviço de DNS com BIND, sistema de diretórios com OPENLDAP, bancos de dados MYSQL, POSTGRESQL, SQLITE, sistema de backup BACULA, sistemas groupware ZIMBRA, EXPRESSO, sistemas de correio POP/IMAP – DOVECOT, CYRUS, COURRIER, sistemas de correio SMTP – QMAIL, EXIM, POSTFIX, sistemas de comunicação segura, IPSEC, OPENVPN, sistemas de filtro de pacotes e roteamento avançado NETFILTER/IPTABLES, IPROUTE2, PF, análises de rede com TCPDUMP, IPTRAF, IPERF, OPENVAS, NTOP, NMAP, SNORT, terminais remotos com LTSP, XDMCP, monitoramento com NAGIOS, CACTI, ZABBIX, mensagem instantânea com JABBER, WILDFIRE, replicação, alta disponibilidade e balanceamento de carga com RSYNC, DRDB, HEARTBEAT, LVS, POUND, CARP, gerência de configurações e provisionamento com PUPPET, FOREMAN e SPACEWALK, orquestração e processamento paralelo com SALT e MCOLLECTIVE, virtualização com XEN, KVM, VBOX, GANETI, linguagens SHELLSCRIPT, PUPPET DSL, documentação com MEDIAWIKI, DOKUWIKI, gerência e organização de datacenter com RACKTABLES, gerência corporativa de credenciais com TEAMPASS, gerência de tickets com OTRS, inventoria com OCS, controle de versões com SVN/GIT/CVS, servidor de arquivos com SAMBA, OpenFiler, FreeNAS e NFS, criação de ambientes virtualizados com VAGRANT, PACKER e VEEWEE, ambiente de containers com DOCKER.
 
 
 Além de ferramentas FOSS, também tenho experiência em operação e administração de ambientes de virtualização CITRIX XEN SERVER, VMWARE 4/5 (Com VCenter), Appliances Fortinet (FCNSA v5), Storage unificado NetAPP, Storages EMC Clariion CX3/CX4.
@@ -31,28 +31,27 @@ Sou especializado na administração de ambientes LINUX (RHCE/LPIC-301), monitor
 ## 2. Mini Currículo (para palestras)
 
 Consultor e instrutor especialista em TI com foco em sistemas UNIX e LINUX.
-Possui mais de 14 anos de experiência em TI administrando servidores UNIX e LINUX.
-Atuou em projetos FOSS[0] no ITI [1], MC [2], MDA [3], EBC [4] , [5] DATAPREV, [6] DETRAN/DF e [7] CAIXA.
-Palestrante em eventos especializados como FISL, CONSEGI, ENECOMP, FLISOL, LATINOWARE e CLOUDCONF.
-
-É blogueiro, microblogueiro, mantenedor de wiki, palestrante e a apóia ações para o compartilhamento de conhecimento e democratização da produção, acesso e distribuição da informação de forma livre.
-
+Possui mais de 14 anos de experiência em TI administrando redes e sustentando servidores UNIX e LINUX.
+Atuou em projetos FOSS[0] no ITI [1], MINICOM [2], MDA [3], EBC [4] , [5] DATAPREV, [6] DETRAN/DF,  [7] CAIXA e [8] Anatel.
+Palestrante em eventos especializados como FISL, CONSEGI, ENECOMP, FLISOL, FSD, LATINOWARE e CLOUDCONF.
+É blogueiro, microblogueiro e mantenedor de wikis técnicas.
 Mora atualmente em Brasília/DF.
 
 [0] FOSS: Free and open-source software<br>
 [1] ITI: Instituto Nacional de Tecnologia da Informação<br>
-[2] MC: Ministério das Comunicações<br>
+[2] Minicom: Ministério das Comunicações<br>
 [3] MDA: Ministério do Desenvolvimento Agrário<br>
 [4] EBC: Empresa Brasil de Comunicação<br>
 [5] DATAPREV: Empresa de Processamento de dados da Previdência Social<br>
 [6] DETRAN/DF: Departamento de Trânsito do Distrito Federal<br>
 [7] CAIXA: Caixa Economica Federal
+[8] ANATEL: Agência Nacional de Telecomunicações
 
 ## 3. Currículo Profissional Detalhado
 
 José Augusto da Costa Carvalho
 
-Idade: 32 anos<br>
+Idade: 33 anos<br>
 Morando atualmente em Águas Claras/DF<br>
 Natural de Campo Grande/MS<br>
 
@@ -76,11 +75,12 @@ Google Plus: htp://www.google.com/+GutoCarvalho<br>
 
 ##### 3.1.1 Analista de sistemas Sênior na Mais2x (Brasília/DF)
 2013 - 2014<br>
-Atividades: Atuando no suporte a redes, sistemas operacionais linux/unix, sustentação de sistemas e serviços, execução de projetos e elaboração de documentação em clientes Mais2x.
+Atividades: Atuando no suporte a redes, sistemas operacionais linux/unix, sustentação de sistemas e serviços, execução de projetos e elaboração de documentação em clientes Mais2x. Atuando no Detran/DF e Anatel.
 
 ##### 3.1.2 Consultor Sênior na 4Linux (Brasília/DF e São Paulo/SP)
 2012 - 2013<br>
-Atividades: Consultoria e Instrutoria em tecnologias FOSS (Free and Open Source Software).
+Atividades: Consultoria e Instrutoria em tecnologias FOSS (Free and Open Source Software), atudando principamente na CAIXA em diversos
+departamentos.
 
 ##### 3.1.3 Analista de Suporte a Redes Sênior na B2BR (Brasília/DF)
 2011 - 2012<br>
@@ -119,6 +119,11 @@ Atuava com suporte a servidores GNU/LINUX em diversos clientes do estado, partic
 Administração de redes e ambientes GNU/LINUX em diversos clientes no estado do Mato Grosso do Sul.
 
 ### 3.2 Atividades & Projetos
+
+#### 2014 ( ANATEL )
+
+Implantação de Gerência de configurações com Puppet, orquestração com Mcollective, sustentação de ambientes JBOSS,
+MYSQL, PostreSQL, SVN, GIT e PHP.
 
 #### 2013 ( DETRAN/DF )
 
@@ -216,6 +221,14 @@ Renovada em 08/10/2004<br>
 ### 3.5 CURSOS DE APERFEIÇOAMENTO
 
 ##### 2014
+
+**GIT Real**<br>
+Codeschool<br>
+Maio 2014<br>
+
+**Try GIT**<br>
+Codeschool<br>
+Maio 2014<br>
 
 **Redhat RH300 Rapid Track**<br>
 São Paulo/SP - Savant<br>
