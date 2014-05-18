@@ -30,12 +30,9 @@ Sou especializado na administração de ambientes LINUX (RHCE/LPIC-301), monitor
 
 ## 2. Mini Currículo (para palestras)
 
-Consultor e instrutor especialista em TI com foco em sistemas UNIX e LINUX.<br>
-Possui mais de 14 anos de experiência em TI administrando redes e sustentando servidores UNIX e LINUX.<br>
-Atuou em projetos FOSS[0] no ITI [1], MINICOM [2], MDA [3], EBC [4] , [5] DATAPREV, [6] DETRAN/DF,  [7] CAIXA e [8] Anatel.<br>
-Palestrante em eventos especializados como FISL, CONSEGI, ENECOMP, FLISOL, FSD, LATINOWARE e CLOUDCONF.<br>
-É blogueiro, microblogueiro e mantenedor de wikis técnicas.<br>
-Mora atualmente em Brasília/DF.<br>
+Consultor e instrutor especialista em TI com foco em ambiente UNIX e LINUX. Possui mais de 14 anos de experiência em TI administrando redes e sustentando servidores e serviços. Atuou em projetos FOSS [0] no ITI [1], MINICOM [2], MDA [3], EBC [4] , [5] DATAPREV, [6] DETRAN/DF,  [7] CAIXA e [8] Anatel. Palestrante em eventos especializados como FISL, CONSEGI, ENECOMP, FLISOL, FSD, LATINOWARE e CLOUDCONF. É blogueiro, microblogueiro e mantenedor de wikis técnicas públicas.
+
+Mora atualmente em Brasília/DF.
 
 [0] FOSS: Free and open-source software<br>
 [1] ITI: Instituto Nacional de Tecnologia da Informação<br>
@@ -44,8 +41,8 @@ Mora atualmente em Brasília/DF.<br>
 [4] EBC: Empresa Brasil de Comunicação<br>
 [5] DATAPREV: Empresa de Processamento de dados da Previdência Social<br>
 [6] DETRAN/DF: Departamento de Trânsito do Distrito Federal<br>
-[7] CAIXA: Caixa Economica Federal
-[8] ANATEL: Agência Nacional de Telecomunicações
+[7] CAIXA: Caixa Economica Federal<br>
+[8] ANATEL: Agência Nacional de Telecomunicações<br>
 
 ## 3. Currículo Profissional Detalhado
 
@@ -346,10 +343,6 @@ Instrutor: Ulysses Pereira de Almeida Neto<br>
 Período: 21/07 a 28/07 de 2003<br>
 Carga: 24 horas<br>
 
-**Rede Conectiva de treinamento**<br>
-Centro de treinamento autorizado Milenium Informática<br>
-Website: http://www.mileniuminformatica.com.br<br>
-
 ### 3.6 OFICINAS, PALESTRAS E WEBINARS APRESENTADOS
 
 ##### 2014
@@ -592,6 +585,10 @@ Local: Universidade para o Desenvolvimento do Estado e da Região do Pantanal �
 Período: 21/10/2004<br>
 
 ### 3.8 PARTICIPAÇÃO EM EVENTOS
+
+##### 2014
+
+FLISOL-DF - Taguatinga - Maio/14<br>
 
 ##### 2013
 
