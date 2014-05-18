@@ -19,10 +19,10 @@ Possuo cerca de 14 anos de experiência na área de tecnologia com foco em infra
 
 ### 1.1 Experiência
 
-Tenho sólida experiência com sustentação de servidores de aplicação APACHE HTTPD, APACHE TOMCAT, JBOSS, sistemas de reverse proxy NGINX, HAPROXY, sistemas de web cache VARNISH, sistemas de proxy com SQUID e DANSGUARDIAN, controlador de domínio com SAMBA/OPENLDAP, serviço de DNS com BIND, sistema de diretórios com OPENLDAP, bancos de dados MYSQL, POSTGRESQL, SQLITE, sistema de backup BACULA, sistemas groupware ZIMBRA, EXPRESSO, sistemas de correio POP/IMAP – DOVECOT, CYRUS, COURRIER, sistemas de correio SMTP – QMAIL, EXIM, POSTFIX, sistemas de comunicação segura, IPSEC, OPENVPN, sistemas de filtro de pacotes e roteamento avançado NETFILTER/IPTABLES, IPROUTE2, PF, análises de rede com TCPDUMP, IPTRAF, IPERF, OPENVAS, NTOP, NMAP, SNORT, terminais remotos com LTSP, XDMCP, monitoramento com NAGIOS, CACTI, ZABBIX, mensagem instantânea com JABBER, WILDFIRE, replicação, alta disponibilidade e balanceamento de carga com RSYNC, DRDB, HEARTBEAT, LVS, POUND, CARP, gerência de configurações e provisionamento com PUPPET, FOREMAN e SPACEWALK, orquestração e processamento paralelo com SALT e MCOLLECTIVE, virtualização com XEN, KVM, VBOX, GANETI, linguagens SHELLSCRIPT, PUPPET DSL, documentação com MEDIAWIKI, DOKUWIKI, gerência e organização de datacenter com RACKTABLES, gerência corporativa de credenciais com TEAMPASS, gerência de tickets com OTRS, inventoria com OCS, controle de versões com SVN/GIT/CVS, servidor de arquivos com SAMBA, OpenFiler, FreeNAS e NFS.
+Tenho sólida experiência com sustentação de servidores de aplicação APACHE HTTPD, APACHE TOMCAT, JBOSS, sistemas de reverse proxy NGINX, HAPROXY, sistemas de web cache VARNISH, sistemas de proxy com SQUID e DANSGUARDIAN, controlador de domínio com SAMBA/OPENLDAP, serviço de DNS com BIND, sistema de diretórios com OPENLDAP, bancos de dados MYSQL, POSTGRESQL, SQLITE, sistema de backup BACULA, sistemas groupware ZIMBRA, EXPRESSO, sistemas de correio POP/IMAP – DOVECOT, CYRUS, COURRIER, sistemas de correio SMTP – QMAIL, EXIM, POSTFIX, sistemas de comunicação segura, IPSEC, OPENVPN, sistemas de filtro de pacotes e roteamento avançado NETFILTER/IPTABLES, IPROUTE2, PF, análises de rede com TCPDUMP, IPTRAF, IPERF, OPENVAS, NTOP, NMAP, SNORT, terminais remotos com LTSP, XDMCP, monitoramento com NAGIOS, CACTI, ZABBIX, mensagem instantânea com JABBER, WILDFIRE, replicação, alta disponibilidade e balanceamento de carga com RSYNC, DRDB, HEARTBEAT, LVS, POUND, CARP, gerência de configurações e provisionamento com PUPPET, FOREMAN e SPACEWALK, orquestração e processamento paralelo com SALT e MCOLLECTIVE, virtualização com XEN, KVM, VBOX, GANETI, linguagens SHELLSCRIPT, PUPPET DSL, documentação com MEDIAWIKI, DOKUWIKI, gerência e organização de datacenter com RACKTABLES, gerência corporativa de credenciais com TEAMPASS, gerência de tickets com OTRS, inventoria com OCS, controle de versões com SVN/GIT/CVS, servidor de arquivos com SAMBA, OpenFiler, FreeNAS e NFS, criação de ambientes virtualizados com vagrant, packer e veewee, ambiene de containers com docker.
 
 
-Além de ferramentas FOSS, também tenho experiência em operação e administração de ambientes de virtualização VMWARE 4/5 (Com VCenter), Appliances Fortinet (FCNSA v5), Storage unificado NetAPP, Storages EMC Clariion CX3/CX4.
+Além de ferramentas FOSS, também tenho experiência em operação e administração de ambientes de virtualização CITRIX XEN SERVER, VMWARE 4/5 (Com VCenter), Appliances Fortinet (FCNSA v5), Storage unificado NetAPP, Storages EMC Clariion CX3/CX4.
 
 ### 1.2 Especialidades
 
@@ -70,6 +70,7 @@ Twitter: @gutocarvalho<br>
 Github: http://github.com/gutocarvalho<br>
 LinkedIN: http://br.linkedin.com/in/gutocarv<br>
 Slideshare: http://www.slideshare.net/gutocarvalho<br>
+Google Plus: htp://www.google.com/+GutoCarvalho<br>
 
 ### 3.1 EXPERIÊNCIA PROFISSIONAL
 
@@ -336,7 +337,19 @@ Carga: 24 horas<br>
 Centro de treinamento autorizado Milenium Informática<br>
 Website: http://www.mileniuminformatica.com.br<br>
 
-### 3.6 OFICINAS E PALESTRAS MINISTRADOS POR MIM
+### 3.6 OFICINAS, PALESTRAS E WEBINARS APRESENTADOS
+
+##### 2014
+
+**Webinar: Introdução ao Puppet Enterprise**<BR>
+Apresentado por: Guto Carvalho & Miguel Filho<br>
+Via Google Hangout<br>
+06 de Maio de 2014<br>
+
+**Infraestrutura como código com Puppet & Mcollective**<BR>
+FLISOL<br>
+Local: Taguatinga/DF<br>
+16 de Abril de 2014<br>
 
 ##### 2013
 

@@ -30,6 +30,7 @@ Existem algumas formas de entrar em contato comigo, escolha uma.
     Github: http://github.com/gutocarvalho
     LinkedIN: http://br.linkedin.com/in/gutocarv
     Slideshare: http://www.slideshare.net/gutocarvalho
+    Google Plus: http://www.google.com/+GutoCarvalho
 
 ### Treinamentos e Projetos
 
